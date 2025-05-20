@@ -6,7 +6,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aman-raj-kashyap&label=Profile%20views&color=0e75b6&style=flat" alt="aman-raj-kashyap" /> </p>
 
-- 🔭 I’m currently working at **Nagarro**
+- 🔭 I’m currently working at **Newgen Software**
+ 
+- 🔭 I have previously worked at **Nagarro**
 
 - 🌱 I’m currently learning **React, Spring Boot, Big Data Technologies**
 
