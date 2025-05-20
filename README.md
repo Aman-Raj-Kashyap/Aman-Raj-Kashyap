@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **React, Spring Boot, Big Data Technologies**
 
-- 💬 Ask me about **React, Spring Boot, Microservices, JUnit, MySQL**
+- 💬 Ask me about **React, Spring Boot, Microservices, JUnit, MySQL and Big Data Frameworks**
 
 - 📫 How to reach me **amankashyap701@gmail.com**
 
