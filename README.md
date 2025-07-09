@@ -6,13 +6,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aman-raj-kashyap&label=Profile%20views&color=0e75b6&style=flat" alt="aman-raj-kashyap" /> </p>
 
-- 🔭 I’m currently working at **Newgen Software**
+- 🔭 I’m currently working at **Infogain** as a Software Developer
  
-- 🔭 I have previously worked at **Nagarro**
+- 🔭 I have previously worked at **Newgen Software & Nagarro**
 
-- 🌱 I’m currently learning **React, Spring Boot, Big Data Technologies**
+- 🌱 I’m currently learning **Spring Boot, Microservices, Kafka & Big Data Technologies**
 
-- 💬 Ask me about **React, Spring Boot, Microservices, JUnit, MySQL and Big Data Frameworks**
+- 💬 Ask me about **Spring Boot, Microservices, Kafka, Kibana, AWS, JUnit, MySQL, Oracle Database, React and Big Data Frameworks**
 
 - 📫 How to reach me **amankashyap701@gmail.com**
 
